@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+torch
+elasticsearch==8.15.0
+pandas
+tqdm
